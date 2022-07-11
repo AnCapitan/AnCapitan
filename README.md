@@ -12,6 +12,12 @@
 
 - 📫 How to reach me **anworkjob@gmail.com**
 
+- 📨 My social account Vk *https://vk.com/anworkjob*
+
+- 📨 My Telegram ccount *https://t.me/AnWorkJob*
+
+- 🏋️‍♀️ Fun fact **Did karate for 11 years**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
