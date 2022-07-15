@@ -4,11 +4,11 @@
 <h3 align="center">A passionate backend developer from Russian</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **Forum**
+- 🔭 I’m currently working on **WebShop**
 
 - 🌱 I’m currently learning **Django REST + React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HoStGi](https://github.com/HoStGi)
+- 👨‍💻 All of my projects are available at [https://github.com/HoStGi](https://github.com/HoStGi?tab=repositories)
 
 - 📫 How to reach me **anworkjob@gmail.com**
 
