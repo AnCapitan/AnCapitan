@@ -14,7 +14,7 @@
 
 - 📨 My social account Vk *https://vk.com/anworkjob*
 
-- 📨 My Telegram ccount *https://t.me/AnWorkJob*
+- 📨 My Telegram account *https://t.me/AnWorkJob*
 
 - 🏋️‍♀️ Fun fact **Did karate for 11 years**
 
