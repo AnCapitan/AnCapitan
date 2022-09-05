@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **anworkjob@gmail.com**
 
-- 📨 My social account Vk *https://vk.com/anworkjob*
+- 📨 My social account Vk *https://vk.com/ancapitan*
 
-- 📨 My Telegram account *https://t.me/AnWorkJob*
+- 📨 My Telegram account *https://t.me/AnCapitan*
 
 - 🏋️‍♀️ Fun fact **Did karate for 11 years**
 
