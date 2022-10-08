@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **WebShop**
 
-- 🌱 I’m currently learning **Django REST + React**
+- 🌱 I’m currently learning **Django + React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HoStGi](https://github.com/HoStGi?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AnCapitan](https://github.com/AnCapitan?tab=repositories)
 
 - 📫 How to reach me **anworkjob@gmail.com**
 
